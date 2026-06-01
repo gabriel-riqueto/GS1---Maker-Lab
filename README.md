@@ -1,6 +1,6 @@
 **PROJETO: Space Claw**
 
-**Integrantes:**
+**Integrantes:** <br>
 Gabriel Riqueto Reis RM98685 <br>
 Sabrina Flores Varela de Morais RM550781 <br>
 Leonardo Nicastro Mansur Castillo RM551659 <br>
